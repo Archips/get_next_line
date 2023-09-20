@@ -2,6 +2,10 @@
 
 This project involves creating a C function, `get_next_line`, that reads lines from a file descriptor. The function should return each line one at a time upon repeated calls.
 
+## Score
+
+-  125%  
+
 ## Project Highlights
 
 - Efficiently reads lines from a file descriptor
